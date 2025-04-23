@@ -2,5 +2,5 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
-HTML Practice
-Template from freeCodeCamp.org
+Finished product in GitHub Pages https://satorien.github.io/testimonials-grid-section-challenge/
+
